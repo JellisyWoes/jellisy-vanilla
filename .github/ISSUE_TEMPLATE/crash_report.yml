@@ -1,0 +1,44 @@
+name: 🚨 Crash Report
+description: Report a crash in the modpack
+labels: [crash]
+body:
+  - type: markdown
+    attributes:
+      value: "### 🚨 Crash Description"
+  - type: textarea
+    attributes:
+      label: "What happened?"
+      description: "Describe what you were doing before the crash."
+      placeholder: "I was mining, then the game crashed."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "### 📋 Crash Report & Logs"
+  - type: textarea
+    attributes:
+      label: "Upload Crash Report (Required)"
+      description: "Please upload your latest crash log using [https://mclo.gs/](https://mclo.gs/) and paste the link below."
+      placeholder: "Paste the mclo.gs link here..."
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: "Launcher Used"
+      options:
+        - "CurseForge"
+        - "Prism Launcher"
+        - "MultiMC"
+        - "GDLauncher"
+        - "Other (Specify Below)"
+    
+  - type: input
+    attributes:
+      label: "Java Version"
+      placeholder: "e.g. OpenJDK 17"
+
+  - type: textarea
+    attributes:
+      label: "Additional Notes"
