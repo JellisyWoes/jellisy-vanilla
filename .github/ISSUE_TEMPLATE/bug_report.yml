@@ -15,13 +15,15 @@ body:
 
   - type: markdown
     attributes:
-      value: "### 📷 Screenshots & Logs"
+      value: "### 📋 Logs & Crash Reports"
   - type: textarea
     attributes:
-      label: "Crash Report or Log"
-      description: "If applicable, provide a link to crash report (pastebin, GitHub gist, etc.)."
-      placeholder: "Paste the log link here..."
-  
+      label: "Upload Logs (Required)"
+      description: "Please upload your latest log file using [https://mclo.gs/](https://mclo.gs/) and paste the link below."
+      placeholder: "Paste the mclo.gs link here..."
+    validations:
+      required: true
+
   - type: markdown
     attributes:
       value: "### 📌 Steps to Reproduce"
@@ -66,4 +68,3 @@ body:
     attributes:
       label: "Additional Context"
       description: "Any other relevant information?"
-
