@@ -1,0 +1,28 @@
+name: ❓ General Issue
+description: Report other issues or ask general questions about the modpack
+labels: [question, help wanted]
+body:
+  - type: markdown
+    attributes:
+      value: "### ❓ Issue Description"
+  - type: textarea
+    attributes:
+      label: "What is your question or issue?"
+      placeholder: "Describe your issue or question here..."
+      validations:
+        required: true
+
+  - type: markdown
+    attributes:
+      value: "### ℹ️ Modpack Version"
+  - type: dropdown
+    attributes:
+      label: "Which modpack version?"
+      options:
+        - "Latest"
+        - "Older Version (Specify Below)"
+
+  - type: textarea
+    attributes:
+      label: "Additional Notes"
+      description: "Any extra details, links, or information?"
