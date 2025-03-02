@@ -1,12 +1,19 @@
+<div align="center">
+
+<img src="https://cdn.modrinth.com/data/AStjLe0V/8d5c71225bb1ae03aee079cbaad1ab78c1ef981a_96.webp" alt="Jellisy Vanilla Logo" width="15%">
+
 # 🎮 Jellisy Vanilla – A Client-Side Vanilla Modpack  
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Jellisy%20Vanilla-green?style=flat&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
-[![Modrinth Downloads](https://img.shields.io/badge/dynamic/json?color=34D058&label=Downloads&query=downloads&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
-[![Modrinth Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
+[![Modrinth][img-modrinth]][url-modrinth]
+[![Downloads][img-downloads]][url-modrinth]
+[![Followers][img-followers]][url-modrinth]
+[![GitHub Issues][img-github]][url-github]
 
-[![GitHub Issues](https://img.shields.io/github/issues/JellisyWoes/jellisy-vanilla?style=flat)](https://github.com/JellisyWoes/jellisy-vanilla/issues)  
+Jellisy Vanilla is a **lightweight, client-side** modpack designed to enhance **performance, visuals, and quality of life** while keeping Minecraft **vanilla-friendly**.
 
-Jellisy Vanilla is a **lightweight, client-side** modpack designed to enhance **performance, visuals, and quality of life** while keeping Minecraft **vanilla-friendly**.  
+</div>
+
+---
 
 ## ✨ Features  
 
@@ -65,11 +72,28 @@ For more help, visit the **[FAQ & Troubleshooting](https://github.com/JellisyWoe
 
 ---
 
+<div align="center">
+
 💬 **Issues & Suggestions?**  
-- Report problems on **[GitHub Issues](https://github.com/JellisyWoes/jellisy-vanilla/issues)**.  
-- Join the **community Discord** (coming soon).  
+<a href="https://github.com/JellisyWoes/jellisy-vanilla/issues"><b>Report problems on GitHub Issues</b></a>  
+Join the **community Discord** *(coming soon)*.  
 
 ⭐ **Enjoying Jellisy Vanilla?**  
 Consider leaving a **star on this repo** ⭐ and sharing it with friends!  
 
 🚀 **Happy Mining!** 🎮  
+
+</div>
+
+<!-- Images -->
+[img-modrinth]: https://img.shields.io/badge/Modrinth-Jellisy%20Vanilla-1B512D?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=0F1E11
+[img-downloads]: https://img.shields.io/badge/dynamic/json?color=31A354&label=Downloads&query=downloads&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth&logoColor=white&style=for-the-badge&labelColor=1A2B16
+[img-followers]: https://img.shields.io/badge/dynamic/json?color=31A354&label=Followers&query=followers&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth&logoColor=white&style=for-the-badge&labelColor=1A2B16
+[img-github]: https://img.shields.io/badge/dynamic/json?color=7E57C2&label=GitHub%20Issues&query=open_issues_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FJellisyWoes%2Fjellisy-vanilla&logo=github&logoColor=white&style=for-the-badge&labelColor=2B1A40
+
+
+
+
+<!-- URLs -->
+[url-modrinth]: https://modrinth.com/modpack/jellisy-vanilla
+[url-github]: https://github.com/JellisyWoes/jellisy-vanilla/issues
