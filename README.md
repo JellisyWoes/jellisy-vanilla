@@ -1,9 +1,9 @@
 # 🎮 Jellisy Vanilla – A Client-Side Vanilla Modpack  
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Jellisy%20Vanilla-green?style=flat&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
-[![Modrinth Downloads](https://modrinth-utils.vercel.app/api/badge/downloads?id=AStjLe0V&logo=true&style=flat&color=34D058)](https://modrinth.com/modpack/jellisy-vanilla)  
-[![Modrinth Version](https://modrinth-utils.vercel.app/api/badge/version?id=AStjLe0V&logo=true&style=flat)](https://modrinth.com/modpack/jellisy-vanilla)  
-[![Modrinth Followers](https://modrinth-utils.vercel.app/api/badge/followers?id=AStjLe0V&logo=true&style=flat)](https://modrinth.com/modpack/jellisy-vanilla)  
+[![Modrinth Downloads](https://img.shields.io/badge/dynamic/json?color=34D058&label=Downloads&query=downloads&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
+[![Modrinth Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.modrinth.com%2Fv2%2Fproject%2FAStjLe0V&logo=modrinth)](https://modrinth.com/modpack/jellisy-vanilla)  
+
 [![GitHub Issues](https://img.shields.io/github/issues/JellisyWoes/jellisy-vanilla?style=flat)](https://github.com/JellisyWoes/jellisy-vanilla/issues)  
 
 Jellisy Vanilla is a **lightweight, client-side** modpack designed to enhance **performance, visuals, and quality of life** while keeping Minecraft **vanilla-friendly**.  
